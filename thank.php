@@ -1,6 +1,5 @@
 <?php
 
-$nomErr = $prenomErr = $emailErr = $telephoneErr = $sujetErr = $messageErr =  "";
 $nom = $prenom = $email = $telephone = $sujet = $message = "";
 
 $errors = [];
